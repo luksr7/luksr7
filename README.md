@@ -30,7 +30,10 @@
 🌱 I’m currently learning JavaScript
 </div><br/>
 🚀student!!
+</div><br/>
+Im currently working as a freelancer
 
+meu email: santarenmarqueslucaspf@gmail.com
 
 
 
